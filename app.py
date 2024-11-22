@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-# Вставь свой API-ключ NASA
+#API-ключ NASA
 NASA_API_KEY = 'kSutIKTTaXjjr40V4TIQss2X0LmxAOCNhUvOMKwu'
 
 @app.route('/')
