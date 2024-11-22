@@ -96,4 +96,4 @@ Fetch Near-Earth Objects (NEOs).
 ---
 
 ## API PostMan Documentation  
-Access the Postman collection [here](https://api.postman.com/collections/39944177-416aceb7-598d-4261-b6fd-20af270c7fb4?access_key=PMAT-01JDAPWMRXNYTGSH6BB0P84SNW)
+Access the Postman collection [here](https://web.postman.co/workspace/My-Workspace~c8faef5a-a18c-457d-8e0d-8ce8ffe823f2/overview)
